@@ -1,4 +1,4 @@
-# Dont't think about it =D
+# Don't think about it =D
 
 ## create react app boilerplate
 #### includes
